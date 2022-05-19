@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        // val textView: TextView = findViewById(R.id.textView)
+     // val textView: TextView = findViewById(R.id.textView)
      //   textView.text = Datasource().loadAffirmations().size.toString()
 
 
